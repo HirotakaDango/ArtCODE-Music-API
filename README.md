@@ -2,4 +2,4 @@
 
 This is lightweight version of ArtCODE - Music by using API to fetch data from ArtCODE - Music.
 
-![preview](https://i.imgur.com/uuEW6iP.png)
+![preview](https://i.imgur.com/nKQlK2d.png)
